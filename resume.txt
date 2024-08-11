@@ -1,0 +1,79 @@
+JINESH JOHN
+Solution Architect | Python | Nodejs | Machine Learning | LLM | AWS
+
+PROFESSIONAL SUMMARY:
+Experience Architect with over 14+ years of experience to the development and implementation of innovative solutions leveraging artificial intelligence and cloud computing to optimize platform efficiency and effectiveness. With over 5 years of extensive experience in machine learning, deep learning, computer vision, and natural language processing, I have consistently delivered cutting-edge technologies to solve complex business problems and generate substantial value for customers and partners. My expertise spans a variety of high-impact projects, including custom OCR layers, image classification, LLM prompting ,LLM fine tuning and ML/DL model analysis with operations, and multi-cloud strategy deployment. I have a proven track record in designing and developing robust microservices and serverless frameworks, as well as implementing Elasticsearch and REST services using a wide range of technologies such as Node.js, Python, MySQL, MongoDB, AWS, GCP, Azure, Docker, EKS, Kubernetes, Kafka, and RabbitMQ.
+
+PROFESSIONAL EXPERIENCE:
+
+	Namaste Credit		Aug-2015-Till Now
+	Solution Architect| Head of RnD
+•	Cloud Development & Cost Optimization
+•	Custom OCR Development
+•	Machine Learning & Deep Leaning 
+•	LLM Development & Prompting 
+•	EKS Deployment & Devops pipeline
+•	Works on Improvement of API performance
+	
+Tecsolsoftware LLP		Aug-2012-May-2015
+	Development Team Lead
+•	Cloud Management
+•	Collect requirement from Clients and develop and hands on with team
+•	Building API for mobile application development
+•	Work with client requirements and build the wireframe & Solutions
+
+Icon info Solution		Aug-2007-May-2009
+	Development Team Lead
+•	Working on Static website with clients
+•	Giving Guidance for Students Projects
+
+
+
+PROJECTS:
+o	BANK STATEMENT ANALYSIS AND EXTRACTS 
+•	PDF / Scan pdf extraction with deep learning model to identify the layout
+•	Developed a complex algorithm to standardize the data standardization 
+•	Reduce the development time from Hours to Minutes 
+•	Analysis the monthly summary , daily balances and top  users/ suppliers
+•	Loan trackers and snapshots from bank statements
+•	Build OCR development using Deep learning and open packages
+
+o	KYC EXTRACTIONS
+•	KYC document classification 
+•	Identify the area of KYC document 
+•	Extraction and Improve the Quality
+•	API time reduce to 5 or less millisecond for each api requests
+•	API integrations with multiple provider(for Verifications)
+
+o	IMAGE FORENSIC
+•	Build Multi model for ELA, Noise and Clone for each region data
+•	Data triangulation 
+•	Give as an offering for All documents
+
+o	NAMASTECREDIT – LOS
+•	Papper less process for loan applications
+•	Custom Application for Generation 
+•	KYC integrations 
+•	Third party user verification integration
+•	Provide the instant offers to the customers
+•	Its creating daily 1500 application to the system 
+
+o	BANK STATEMENT CLASSIFICATION – WITH LLM
+•	Using LAMMA 3 for understanding the classification of each transaction
+•	Build the ner models with llm to identify the organisation and person
+•	Offer as an api to customer 
+
+o	PREDICTIVE ANALYSIS FOR IMPROVING FINANCAIL FORCASTING(POC)
+•	Build a model to understand Financial forecasting 
+
+o	Website Crawling 
+o	NLP Models
+
+
+
+
+
+
+
+
+ 	 	
